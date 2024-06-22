@@ -8,13 +8,13 @@
   
   **Features**
   
-  •	Real-Time Feedback: Ultrasonic sensors detect obstacles and provide immediate feedback to the user.
-  
-  •	Arduino Nano Integration: Ensures efficient processing and control.
-  
-  •	Accessibility Focused: Designed specifically to assist visually impaired individuals in navigating their environment safely.
-  
-  •	Innovative Design: Combining technology and practicality for everyday use.
+    •	Real-Time Feedback: Ultrasonic sensors detect obstacles and provide immediate feedback to the user.
+    
+    •	Arduino Nano Integration: Ensures efficient processing and control.
+    
+    •	Accessibility Focused: Designed specifically to assist visually impaired individuals in navigating their environment safely.
+    
+    •	Innovative Design: Combining technology and practicality for everyday use.
 
 **Project Motivation**
   Navigating the world can be a significant challenge for those with visual impairments. Our Smart  Spectacles aim to empower these individuals by providing a tool that enhances their independence and confidence. This project is not just about a product; it's about inclusivity, independence, and innovation.
@@ -37,7 +37,6 @@
 **Usage**
 
   1.	Power On:
-     
     o	After uploading the code, power on the SmartSpectacles.
   3.	Wear the Spectacles:
      
