@@ -37,11 +37,14 @@
 **Usage**
 
   1.	Power On:
+     
     o	After uploading the code, power on the SmartSpectacles.
-  3.	Wear the Spectacles:
+    
+  2.	Wear the Spectacles:
      
     o	Put on the spectacles and ensure the sensors are properly positioned.
-  5.	Navigate Safely:
+    
+  3.	Navigate Safely:
      
     o	The spectacles will provide feedback as you approach obstacles, helping you navigate safely.
 
